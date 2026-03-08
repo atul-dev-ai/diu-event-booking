@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-🔥 **Check out the live project here:** 🔗 **[DIUEvents Live App](https://atul-dev-ai.github.io/diu-events/)
+🔥 **Check out the live project here:** 🔗 **[DIUEvents Live App](https://atul-dev-ai.github.io/diu-event-booking/)
 
 <img src="preview.png">
 
